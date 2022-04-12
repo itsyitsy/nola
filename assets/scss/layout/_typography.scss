@@ -32,7 +32,7 @@ h1,.look-like-h1 {
 }
 
 h1::before {
-	content: url(/assets/img/icons/wave-blue.svg);
+	content: url(../img/icons/wave-blue.svg);
 	width: auto;
 	height: auto;
 	position: absolute;
@@ -42,7 +42,7 @@ h1::before {
 }
 
 h1.look-white::before {
-	content: url(/assets/img/icons/wave-white.svg);
+	content: url(../img/icons/wave-white.svg);
 }
 
 h2,.look-like-h2 {
